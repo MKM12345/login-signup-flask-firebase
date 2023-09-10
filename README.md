@@ -6,7 +6,7 @@
 
 This project is a simple user authentication system built using Flask, Firebase Authentication, and JavaScript. It allows users to sign up for an account, log in, and securely manage their user credentials. 
 
-This is not a ready built, fully functional project. It is just a simple template for you Firebase project.
+This is not a ready built, fully functional project. It is just a simple template for your Firebase project.
 
 ## Features
 
